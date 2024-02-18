@@ -1,0 +1,56 @@
+1. Front End 
+  1.1 JS
+  1.2 React
+  1.3 Redux
+
+2. Back End 
+  2.1 Node.js
+  2.2 Express.js
+  2.3 SQL/MySQL
+
+MERN COMPLETE
+
+3. Data Base
+  3.1 PostgreSQL
+  3.2 SQLize
+  (ORM-{Object Relational Mapping})
+
+4. Autorization
+  4.1 JWT - {JSON Web Token}
+  4.2 Passport.js
+
+5. Payment Gateway
+  5.1 Rozorpay
+  5.2 ...................And many more
+
+
+<<!------------------------------------------VIP>>
+
+
+6. Server Deployment -> { AWS / Azure }
+
+7. Testing
+  7.1 Jest -> { Automate Testing}
+ 7.2.1 Cypress
+ 7.2.2 Playwright
+
+8. Version Control
+  8.1 Git 
+  8.2 Git Hub
+
+9. Code Formating
+  9.1 Pretter
+  9.2 ESlint
+
+10. Continous Integration
+  10.1 Perfect setUp in Git Hub
+
+11. API Documentation
+  -> Documentation for other
+  -> { Swagger }
+
+12. Error Monitoring
+  -> { Sentry } -> Set up this
+
+13. Web Performance Analytics
+  -> { Google Analytics }
